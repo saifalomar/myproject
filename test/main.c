@@ -5,6 +5,7 @@
  // function main begins program execution
  int main(void)
  {
+     int u = 0 ;
  // initialize frequency counters to 0
     int frequency[FREQUENCY_SIZE]={0};
 
